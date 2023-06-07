@@ -45,7 +45,7 @@ console.log(newUser2);
 try {
     // напрямую
     newUser2.firstName = "Brendan"; // здесь будет ошибка
-    newUser2.lastName = "Eich"; // до этой строки код не дойдет
+    newUser2.lastName = "Eich"; // до этой строки код не дойдет из-за ошибки
 } catch (e) {
     console.log(
         "\n текущее значение логина: ",

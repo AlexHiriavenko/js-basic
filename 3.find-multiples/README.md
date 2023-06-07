@@ -1,3 +1,7 @@
+# 3.find multiples and nutural numbers
+
+skills: loops "for", "while"
+
 ТЗ:
 
 1. вивести всі числа кратні 5 у заданому діапазоні (от 0 до граничного числа).

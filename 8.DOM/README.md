@@ -1,3 +1,7 @@
+# DOM
+
+skills: searching elements, add/remove element, change content and styles
+
 Опишіть своїми словами що таке Document Object Model (DOM)
 Яка різниця між властивостями HTML-елементів innerHTML та innerText?
 Як можна звернутися до елемента сторінки за допомогою JS? Який спосіб кращий?

@@ -1,3 +1,7 @@
+# alert prompt confirm
+
+skills: dialog functions, while, if-else
+
 ТЗ:
 Реалізувати просту програму на Javascript, яка взаємодіятиме з користувачем за допомогою модальних вікон браузера - alert, prompt, confirm.
 

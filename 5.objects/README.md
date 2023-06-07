@@ -1,3 +1,7 @@
+# Objects
+
+skills: obj key-value, obj methods, setter, Object.defineProperty, try-catch
+
 Завдання
 Реалізувати функцію створення об'єкта "юзер".
 

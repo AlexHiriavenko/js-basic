@@ -1,3 +1,7 @@
+# 4.math-operations
+
+skills: mathematics operators, arrow function, switch/case
+
 ТЗ: Реалізувати функцію, яка виконуватиме математичні операції (+ - \* /)з введеними користувачем числами.
 
 Питання
