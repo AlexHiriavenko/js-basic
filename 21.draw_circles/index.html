@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>js-hw-21-draw_circle</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            padding: 10px;
+        }
+        h1 {
+            background-color: rgb(201, 187, 187);
+            /* background-color: rgb(132, 68, 166); */
+            color: blue;
+            font-size: 32px;
+            text-align: center;
+            margin-left: 0;
+            max-width: max-content;
+            margin: 0 auto;
+            padding: 5px;
+        }
+        button {
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: 24px;
+            border: 0;
+            background-color: brown;
+            color: white;
+            width: 180px;
+            padding: 7px;
+            margin: 7px;
+            display: block;
+            margin-left: 10px;
+        }
+        span {
+            color: rgb(255, 255, 45);
+        }
+        .container {
+            max-width: 94vw;
+            margin: 20px auto;
+            margin-top: 20px;
+            padding: 10px;
+            display: grid;
+            grid-template-columns: repeat(10, 1fr);
+            grid-template-rows: repeat(10, 1fr);
+            gap: 10px;
+            background-color: rgb(244, 249, 182);
+            justify-items: center;
+        }
+        .mini-circle {
+            background-color: blueviolet;
+            border-radius: 50%;    
+        }
+    </style>
+</head>
+<body>
+    <h1>js-hw-21-<span>draw-circle</span></h1>
+    <button class="create-circle">Намалювати кола</button>
+    <script src="./script.js"></script>
+</body>
+</html>
