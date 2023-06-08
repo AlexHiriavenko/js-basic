@@ -1,6 +1,7 @@
 # tabs
 
-skills:
+-   skills: DOM, tabs
+-   url: https://dancing-baklava-b24189.netlify.app/
 
 Завдання
 Реалізувати перемикання вкладок (таби) на чистому Javascript.

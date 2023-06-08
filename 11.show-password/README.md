@@ -1,4 +1,9 @@
-Завдання
+-   skills: event delegation, EventListener, array methods
+
+-   url: https://adorable-sable-e0c086.netlify.app/
+
+# Завдання
+
 Написати реалізацію кнопки "Показати пароль". Завдання має бути виконане на чистому Javascript без використання бібліотек типу jQuery або React.
 
 Технічні вимоги:

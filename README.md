@@ -39,4 +39,19 @@
 
 10. tabs
 
--   skills:
+    - skills: DOM, tabs
+    - url: https://dancing-baklava-b24189.netlify.app/
+
+11. hide/show password, validation
+
+    - skills: event delegation, EventListener, array methods
+    - url: https://adorable-sable-e0c086.netlify.app/
+
+12. highlight letters
+
+    - skills: event.key, event.code
+    - url: https://regal-tapioca-bdd33b.netlify.app/
+
+13. slider
+    - skills: slider, setTimeOut/Interval,
+    - url: https://jade-crostata-acac94.netlify.app/
