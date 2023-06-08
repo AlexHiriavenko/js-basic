@@ -1,6 +1,7 @@
 ## render list
 
 skills: render DOM elements, recursion, setTimeOut/Interval, EventListener
+url: https://lambent-bombolone-7652c3.netlify.app/
 
 ## Завдання
 
