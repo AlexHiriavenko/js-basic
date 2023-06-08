@@ -8,7 +8,7 @@
 
     - skills: dialog functions, while, if-else
 
-3. 3.find multiples and natural numbers
+3. find multiples and natural numbers
 
     - skills: loops "for", "while"
 
@@ -86,5 +86,5 @@
 
 21. draw_circles
 
-    - skills:
+    - skills: DOM
     - url: https://curious-piroshki-46f263.netlify.app/
