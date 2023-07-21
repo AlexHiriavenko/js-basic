@@ -88,3 +88,11 @@
 
     - skills: DOM
     - url: https://curious-piroshki-46f263.netlify.app/
+
+22. one liners
+
+23. readabl number
+
+24. reverse
+
+25. towel sort
