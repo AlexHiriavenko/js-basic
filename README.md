@@ -96,3 +96,5 @@
 24. reverse
 
 25. towel sort
+
+26. brackets
