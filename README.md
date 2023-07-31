@@ -98,3 +98,5 @@
 25. towel sort
 
 26. brackets
+
+27. morse decoder
